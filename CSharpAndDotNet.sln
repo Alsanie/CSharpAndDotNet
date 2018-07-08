@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryCatch-finally", "tryCatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch-Filtering", "TryCatch-Filtering\TryCatch-Filtering.csproj", "{4369D913-54B9-48F4-BF0E-4357B7B63BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatement", "UsingStatement\UsingStatement.csproj", "{0DDCE72A-F54C-48BA-A09A-17BB62F795DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{4369D913-54B9-48F4-BF0E-4357B7B63BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4369D913-54B9-48F4-BF0E-4357B7B63BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4369D913-54B9-48F4-BF0E-4357B7B63BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDCE72A-F54C-48BA-A09A-17BB62F795DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDCE72A-F54C-48BA-A09A-17BB62F795DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDCE72A-F54C-48BA-A09A-17BB62F795DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDCE72A-F54C-48BA-A09A-17BB62F795DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
